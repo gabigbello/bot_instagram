@@ -7,7 +7,6 @@
  Libraries used:
  1. pyautogui
  2. webbrowser
- 3. 
 
  Steps: 
  1. Enter instagram website
