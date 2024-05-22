@@ -1,5 +1,6 @@
-# bot_instagram
+# bot_instagram 🧰
  A bot that likes and comments on people's photos
+ ATTENTION: This bot only works in black theme Instagram.
 
  The bot will define which profile to follow, checks if the newest photo is already liked. In case a new photo
  is posted, this bot will need to enter this post to like and comment in it.
@@ -7,6 +8,8 @@
  Libraries used:
  1. pyautogui
  2. webbrowser
+ 3. pyperclip
+ 4. time sleep
 
  Steps: 
  1. Enter instagram website
